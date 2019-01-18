@@ -1,0 +1,25 @@
+p{
+ text-decoration:underline;
+ color: #191970;
+ background-color: #99cc00;
+ /* #f8dce0 url("../images/kabe01.gif"); */
+ 
+}
+
+
+.sample{
+background: #f8dce0 url("../images/kabe01.gif")
+}
+
+
+#red{
+  color: #FF0000;
+}
+
+.big{
+  font-size: 1.5em;
+}
+
+.blue{
+  color: blue;
+}

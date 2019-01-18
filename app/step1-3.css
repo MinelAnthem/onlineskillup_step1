@@ -1,0 +1,9 @@
+input[type="text"]{
+  -webkit-transition: all .3s;
+  -moz-transiton: all .3s;
+  transition; all .3s;
+  width: 200px;
+}
+input[type="text"]:focus {
+  width; 300px;
+}
